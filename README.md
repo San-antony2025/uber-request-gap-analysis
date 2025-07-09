@@ -34,7 +34,7 @@ Uber experiences a large volume of ride requests, but many go unfulfilled due to
 
 - High **"No Cars Available"** at Airport during evening
 - High **"Cancelled"** status in City during morning
-- Requests peak during **7–9 AM** and **5–9 PM**
+- Requests peak during **5–9 AM** and **5–9 PM**
 - Fulfilled rides don't match rising demand – a clear supply-demand mismatch
 
 ---
